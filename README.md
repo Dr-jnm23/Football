@@ -1,2 +1,2 @@
-# Football game
-Code to create a randomised football draw
+#Notes
+Code to create a randomised team draw
